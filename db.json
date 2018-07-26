@@ -2,41 +2,30 @@
   {
     "id": 1,
     "name": "32\" Full HD Flat Smart TV H5103 Series 3",
-    "description": "Com o Modo futebol, é como se você estivesse realmente no jogo. Ele exibe, de forma precisa e viva, a grama verde do campo e todas as outras cores do estádio. Um poderoso efeito de som multi-surround também permite que você ouça toda a empolgação. Você pode até mesmo ampliar áreas selecionadas da tela para uma melhor visualização. Com apenas o toque de um botão, você pode aproveitar ao máximo o seu esporte favorito com todos os seus amigos.",
-    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/fda44b12-48f7-11e6-996c-0aad52ea90db.jpeg",
-    "price": 1466.10,
-    "category_id": 1
+    "description": "Com o Modo futebol, é como se você estivesse realmente no jogo. Ele exibe, de forma precisa e viva, a grama verde do campo e todas as outras cores do estádio. Um poderoso efeito de som multi-surround também permite que você ouça toda a empolgação. Você pode até mesmo ampliar áreas selecionadas da tela para uma melhor visualização. Com apenas o toque de um botão, você pode aproveitar ao máximo o seu esporte favorito com todos os seus amigos."
+
   },
   {
     "id": 2,
     "name": "40\" Full HD Flat Smart TV H5103 Series 5",
-    "description": "Usando um algoritmo avançado de melhoria da qualidade de imagem, o Wide Color Enhancer Plus da Samsung melhora consideravelmente a qualidade de qualquer imagem e revela detalhes ocultos. Com o Wide Color Enhancer Plus, agora você verá as cores como elas realmente devem ser vistas.",
-    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/fe41bc44-48f7-11e6-a3ac-0a9a90ee83e3.jpeg",
-    "price": 1979.10,
-    "category_id": 1
+    "description": "Usando um algoritmo avançado de melhoria da qualidade de imagem, o Wide Color Enhancer Plus da Samsung melhora consideravelmente a qualidade de qualquer imagem e revela detalhes ocultos. Com o Wide Color Enhancer Plus, agora você verá as cores como elas realmente devem ser vistas."
+  
   },
   {
     "id": 3,
     "name": "65\" UHD 4K Flat Smart TV JU6000 Series 6",
-    "description": "Sua Smart TV vai possibilitar você baixar e acessar aplicativos e assistir conteúdo de vídeos da internet em uma tela muito melhor. Desfrute do Netflix e You Tube com toda a qualidade de imagem da sua TV.",
-    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/fd08d6e6-48f7-11e6-886b-0a37f4bea89f.jpeg",
-    "price": 10999.00,
-    "category_id": 1
+    "description": "Sua Smart TV vai possibilitar você baixar e acessar aplicativos e assistir conteúdo de vídeos da internet em uma tela muito melhor. Desfrute do Netflix e You Tube com toda a qualidade de imagem da sua TV."
+
   },
   {
     "id": 4,
     "name": "Galaxy A5 2016",
-    "description": "Alta performance Hardware de alta qualidade e performance para navegação na internet. O processador Octa-Core permite carregamento de páginas de navegadores instantaneamente, transições de interfaces de maneira suave e multitarefa. O Galaxy A permite também a expansão de memória.",
-    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/07b3b1d8-48f8-11e6-aa97-020adee616d7.jpeg",
-    "price": 1979.10,
-    "category_id": 2
+    "description": "Alta performance Hardware de alta qualidade e performance para navegação na internet. O processador Octa-Core permite carregamento de páginas de navegadores instantaneamente, transições de interfaces de maneira suave e multitarefa. O Galaxy A permite também a expansão de memória."
+  
   },
   {
     "id": 5,
     "name": "Galaxy J3 2016",
-    "description": "O novo Galaxy J apresenta uma frente redesenhada com visual formidável, levando a experiência de visualização a um novo nível. Com uma moldura toda preta e mais fina, de 4.56 mm, a nova estrutura proporciona uma experiência envolvente em tela ampla",
-    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/08da337a-48f8-11e6-9634-02184f9c0531.jpeg",
-    "price": 899.10,
-    "category_id": 2
-  }
+    "description": "O novo Galaxy J apresenta uma frente redesenhada com visual formidável, levando a experiência de visualização a um novo nível. Com uma moldura toda preta e mais fina, de 4.56 mm, a nova estrutura proporciona uma experiência envolvente em tela ampla"
+   
 ]
