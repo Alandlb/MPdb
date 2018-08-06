@@ -6,6 +6,12 @@
             "gpuPc": "1",
             "ramPc": "8",
             "discoPc":"500"
+    },
+    {
+            "nomePc": "Lich",
+            "cpuPc": "4",
+            "gpuPc": "2",
+            "ramPc": "16",
+            "discoPc":"1000"
     }
-
 }
