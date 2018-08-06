@@ -1,5 +1,5 @@
 {
-  "PC":[
+  "PC":{
     {
             "nomePc": "Alan",
             "cpuPc": "8",
@@ -7,5 +7,5 @@
             "ramPc": "8",
             "discoPc":"500"
     }
-]
+}
 }
